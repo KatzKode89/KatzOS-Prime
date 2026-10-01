@@ -1,0 +1,6 @@
+{
+  "name": "KatzGoogleAIStudio - Sovereign Porting Architecture",
+  "description": "Cloud-native Gemini integration bridge and TrueXR glass HUD cockpit for KatzOS-Prime, NATS PrimeBus 9ms mesh, Willow-O WAL manuscript, and KaosKollisions engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
